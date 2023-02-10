@@ -3,7 +3,6 @@
 local plugin = 'plugins/vis-ins-completion/'
 
 local d = require(plugin..'complete-dict')
-local k = require(plugin..'complete-keyword')
 local l = require(plugin..'complete-line')
 local c = require(plugin..'complete-char')
 
